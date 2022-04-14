@@ -1,5 +1,6 @@
 # Red Hat Learning
 
+[Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
 - [Red Hat Enterprise Linux Skills Workshops](https://lab.redhat.com/)
 - [Ansible Automation Platform Self-Paced Labs](https://www.ansible.com/products/ansible-training)
