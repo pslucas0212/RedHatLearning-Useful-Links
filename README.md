@@ -7,3 +7,4 @@
 - [Ansible Automation Platform](https://play.instruqt.com/redhat) - Various learning tracks for the Ansible Automation Platform 
 - [Red Hat Developer](https://developers.redhat.com/)
 - [RHEL on YouTube](https://www.youtube.com/c/RedHatEnterpriseLinux) - YouTube RHEL Learning and Announcements
+- [Red Hat Software Workshops - Red Hat | Public Sector](https://redhatgov.io/)
