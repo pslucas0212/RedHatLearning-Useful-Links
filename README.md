@@ -14,6 +14,5 @@
 - Ansible - [Getting Started with ServiceNow Automation](https://play.instruqt.com/embed/redhat/tracks/getting-started-servicenow-automation?token=em_5ktpLJWtzpbqcDyM&show_challenges=true)
 - [Red Hat OpenShift](https://play.instruqt.com/openshift)
 - [Red Hat Enterprise Linux](https://play.instruqt.com/rhel)
-
 - [Source code for OpenShift on Insruqt](https://github.com/openshift-instruqt/instruqt)
 
