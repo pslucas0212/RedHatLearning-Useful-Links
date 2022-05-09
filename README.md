@@ -16,3 +16,6 @@
 - [Red Hat Enterprise Linux](https://play.instruqt.com/rhel)
 - [Source code for OpenShift on Insruqt](https://github.com/openshift-instruqt/instruqt)
 
+### Red Hat Blogs
+- [Home Page for all Red Hat Blogs](https://www.redhat.com/en/all-blogs) - Links to blogs on Development, RHEL, OpenSHift, Security, OpenSource Community, Ansible and more.  You can find many good "educational" articles on the Red Hat blogs
+
