@@ -8,6 +8,7 @@
 - [Red Hat Developer](https://developers.redhat.com/)
 - [RHEL on YouTube](https://www.youtube.com/c/RedHatEnterpriseLinux) - YouTube RHEL Learning and Announcements
 - [Red Hat Software Workshops - Red Hat | Public Sector](https://redhatgov.io/)
+- [Kube by Example](https://kubebyexample.com) - Kubernetes learning sponsored by Red Hat
 
 ### Red Hat Learning on instruqt
 - [Ansible Automation Platform](https://play.instruqt.com/redhat)
