@@ -9,11 +9,6 @@
 - [Red Hat Software Workshops - Red Hat | Public Sector](https://redhatgov.io/)
 - [Kube by Example](https://kubebyexample.com) - Kubernetes learning sponsored by Red Hat
 
-### Red Hat Learning on instruqt
-- Ansible - [Getting Started with ServiceNow Automation](https://play.instruqt.com/embed/redhat/tracks/getting-started-servicenow-automation?token=em_5ktpLJWtzpbqcDyM&show_challenges=true)
-- [Red Hat OpenShift](https://play.instruqt.com/openshift)
-- [Red Hat Enterprise Linux](https://play.instruqt.com/rhel)
-- [Source code for OpenShift on Insruqt](https://github.com/openshift-instruqt/instruqt)
 
 ### Red Hat Blogs
 - [Home Page for all Red Hat Blogs](https://www.redhat.com/en/all-blogs) - Links to blogs on Development, RHEL, OpenSHift, Security, OpenSource Community, Ansible and more.  You can find many good "educational" articles on the Red Hat blogs
