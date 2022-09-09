@@ -14,6 +14,7 @@
 - [Containers, Kubernetes and Red Hat OpenShift Technical Overview](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview) - No charge introductory training.
 
 ### Other
+- [Red Hat Workshops on Github](https://github.com/RedHatWorkshops/)
 - [Red Hat Developer](https://developers.redhat.com/)
 - [RHEL on YouTube](https://www.youtube.com/c/RedHatEnterpriseLinux) - YouTube RHEL Learning and Announcements
 - [Red Hat Software Workshops - Red Hat | Public Sector](https://redhatgov.io/)
