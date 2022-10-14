@@ -9,6 +9,7 @@
 ### Ansible
 - [Ansible Automation Platform Self-Paced Labs](https://www.ansible.com/products/ansible-training)
 - [Ansible Basics: Automation Technical Overview](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview?section=Overview) - No charge introductory training.
+- [Red Hat Ansible Automation Platform Workshops](https://aap2.demoredhat.com/)
 
 ### OpenShfit
 - [Containers, Kubernetes and Red Hat OpenShift Technical Overview](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview) - No charge introductory training.
