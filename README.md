@@ -14,6 +14,9 @@
 ### OpenShfit
 - [Containers, Kubernetes and Red Hat OpenShift Technical Overview](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview) - No charge introductory training.
 
+### OpenShift Data Science
+- [Red Hat OpenShift Data Science learning](https://developers.redhat.com/learn/openshift-data-science)
+
 ### Other
 - [Red Hat Workshops on Github](https://github.com/RedHatWorkshops/)
 - [Red Hat Developer](https://developers.redhat.com/)
