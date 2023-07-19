@@ -5,6 +5,7 @@
 ### RHEL
 - [Red Hat Enterprise Linux Skills Workshops](https://lab.redhat.com/)
 - [Red Hat Enterprise Linux Technical Overview](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview?utm_medium=Email&utm_campaign=weekly&sc_cid=7013a0000038466AAA) - No charge introductory training.
+- [North America Red Hat Workshops and Learning Labs](https://www.redhat.com/en/events/na-workshops-labs)
 
 ### Ansible
 - [Ansible Automation Platform Self-Paced Labs](https://www.ansible.com/products/ansible-training)
