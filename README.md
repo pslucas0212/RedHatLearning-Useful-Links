@@ -17,6 +17,7 @@
 - [Build a service network with Red Hat Service Interconnect](https://developers.redhat.com/courses/build-service-network-red-hat-service-interconnect)
 - [Learn Kubernetes using the Developer Sandbox for Red Hat OpenShift](https://developers.redhat.com/developer-sandbox/activities/learn-kubernetes-using-red-hat-developer-sandbox-openshift?sc_cid=7013a000003SxUkAAK)
 - [Foundations of OpenShift](https://developers.redhat.com/learn/openshift/foundations-openshift?sc_cid=7013a000003SxUkAAK)
+- [Container Fundamentals](https://developers.redhat.com/learn/openshift/container-fundamentals?sc_cid=7013a000003SxUkAAK)
 
 ### OpenShift Data Science
 - [Red Hat OpenShift Data Science learning](https://developers.redhat.com/learn/openshift-data-science)
