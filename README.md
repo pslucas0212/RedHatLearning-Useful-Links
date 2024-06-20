@@ -18,6 +18,7 @@
 - [Learn Kubernetes using the Developer Sandbox for Red Hat OpenShift](https://developers.redhat.com/developer-sandbox/activities/learn-kubernetes-using-red-hat-developer-sandbox-openshift?sc_cid=7013a000003SxUkAAK)
 - [Foundations of OpenShift](https://developers.redhat.com/learn/openshift/foundations-openshift?sc_cid=7013a000003SxUkAAK)
 - [Container Fundamentals](https://developers.redhat.com/learn/openshift/container-fundamentals?sc_cid=7013a000003SxUkAAK)
+- [OCP Learning Summary Doc](https://github.com/pslucas0212/RedHatLearning-OCP-Learning-Summary)
 
 ### OpenShift Data Science
 - [Red Hat OpenShift Data Science learning](https://developers.redhat.com/learn/openshift-data-science)
